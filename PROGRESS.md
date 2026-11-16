@@ -41,12 +41,20 @@ Phase 1: Cybersecurity Fundamentals
 
 ## Weekly Reflection
 
-### Week 1
+### Week 1 — Networking Fundamentals
 
 **What I Learned:**
+- Basic computer networking concepts.
+- IP and MAC addressing.
+- IPv4 and IPv6 fundamentals.
+- ICMP and ping.
 
 **Practical Activities:**
-
-**Challenges Faced:**
+- Completed the TryHackMe What is Networking? room.
+- Practised network connectivity testing.
+- Documented my learning on GitHub.
 
 **Next Learning Goal:**
+- Study the OSI model.
+- Learn LAN fundamentals.
+- Continue practising networking concepts.
