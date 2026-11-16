@@ -22,7 +22,8 @@ Phase 1: Cybersecurity Fundamentals
 - [ ] IP Addressing
 - [ ] DNS and DHCP
 - [ ] Network Protocols
-- [ ] Practical Networking Lab
+- [x] Introductory Networking Lab — TryHackMe
+- [ ] Additional Networking Labs
 
 ### Concepts Studied
 
