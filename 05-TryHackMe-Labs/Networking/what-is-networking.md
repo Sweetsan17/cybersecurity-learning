@@ -97,8 +97,15 @@ TryHackMe's servers.
 Devices connected to a network need to be
 identified so they can communicate.
 
-Two types of addresses are used to identify Devices. 
-IP addresses and MAC addresses.
+Two important types of addresses used in
+network communication are IP addresses
+and MAC addresses.
+
+IP addresses are used to identify network
+interfaces and route packets across IP networks.
+
+MAC addresses are used for communication
+on local network links.
 
 ### 1. IP Address
 
