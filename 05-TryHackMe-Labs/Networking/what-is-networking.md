@@ -205,3 +205,83 @@ using IP and MAC addresses.
 - IPv6 addresses contain 128 bits.
 - MAC addresses operate at the data-link layer.
 - IP and MAC addresses serve different purposes.
+
+---
+
+## Task 4 — Ping (ICMP)
+
+### What I Learned
+
+Ping is a network diagnostic utility used to
+test whether a device responds to network
+connectivity requests.
+
+Ping commonly uses ICMP (Internet Control
+Message Protocol) Echo Request and Echo Reply
+messages.
+
+### What is ICMP?
+
+ICMP stands for Internet Control Message Protocol.
+
+It is used to communicate network errors,
+diagnostic information, and operational messages.
+
+### How Ping Works
+
+1. The source device sends an ICMP Echo Request.
+2. The destination device receives the request.
+3. If permitted, the destination sends an ICMP Echo Reply.
+4. The source measures the response time.
+
+### Practical Activity
+
+In the TryHackMe networking room, I practiced
+using the ping command to test connectivity
+to a network destination.
+
+Command:
+
+`ping -c 4 8.8.8.8`
+
+### Understanding the Command
+
+| Component | Meaning |
+|-----------|---------|
+| ping | Tests network reach-ability |
+| -c 4 | Sends four Echo Requests |
+| 8.8.8.8 | Destination IPv4 address |
+
+### Understanding Ping Results
+
+The results of the exercise showed:
+
+- Packets transmitted: 4
+- Packets received: 4
+- Packet loss: 0%
+
+This indicates that all four requests received
+responses during the test.
+
+### Important Networking Concepts
+
+**Latency:**
+The time taken for a packet to travel to
+the destination and for a response to return.
+
+**Packet Loss:**
+The percentage of transmitted packets that
+do not receive the expected responses.
+
+**TTL (Time To Live):**
+An IP header field that limits how many
+router hops a packet can travel.
+
+### Key Takeaways
+
+- Ping is useful for troubleshooting networks.
+- ICMP supports network diagnostics.
+- Ping can measure round-trip response time.
+- Packet loss may indicate connectivity problems.
+- A failed ping does not always mean the
+  destination is offline because ICMP may be blocked.
