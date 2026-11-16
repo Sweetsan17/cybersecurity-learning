@@ -11,3 +11,17 @@ practical labs, and documentation.
 - [ ] DNS and DHCP
 - [ ] Network Protocols
 - [ ] Wireshark Packet Analysis
+
+## Learning Materials
+
+### Theory Notes
+
+- [OSI Model](OSI-Model.md)
+
+### Practical Labs
+
+- [TryHackMe — What is Networking?](../05-TryHackMe-Labs/Networking/what-is-networking.md)
+
+### Learning Progress
+
+- [View Learning Progress](../PROGRESS.md)
