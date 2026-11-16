@@ -15,7 +15,7 @@
 - Learn how the Internet connects networks.
 - Understand IP addresses and MAC addresses.
 - Learn about ICMP and the ping command.
-- Practise basic network connectivity testing.
+- Practice basic network connectivity testing.
 
 ---
 
@@ -285,3 +285,61 @@ router hops a packet can travel.
 - Packet loss may indicate connectivity problems.
 - A failed ping does not always mean the
   destination is offline because ICMP may be blocked.
+
+---
+
+## Task 5 — Conclusion
+
+### Room Summary
+
+This TryHackMe room introduced me to fundamental
+networking concepts and basic connectivity testing.
+
+Throughout the room, I studied how devices connect,
+communicate, and exchange information over networks.
+
+### Key Concepts I Learned
+
+1. **Computer Networks**
+   - How devices communicate and share resources.
+
+2. **The Internet**
+   - How smaller networks connect globally.
+
+3. **IP and MAC Addresses**
+   - How network interfaces are identified.
+   - The differences between IPv4 and IPv6.
+
+4. **Ping and ICMP**
+   - How ICMP supports network diagnostics.
+   - How to interpret ping results.
+
+### Practical Skills Developed
+
+- Understanding how devices are identified on networks using IP and MAC addresses.
+- Using the ping command in a training environment.
+- Interpreting latency and packet loss.
+- Understanding basic network troubleshooting.
+
+### Personal Reflection
+
+This room helped me strengthen my understanding
+of networking fundamentals.
+
+I now have a better understanding of how network
+communication works and why networking knowledge
+is important for cybersecurity.
+
+### Next Learning Goal
+
+Study LAN fundamentals, including:
+
+- LAN and WAN differences
+- Network topologies
+- Switches and routers
+- Basic network communication
+
+### Reference
+
+TryHackMe — What is Networking?
+https://tryhackme.com/room/whatisnetworking
