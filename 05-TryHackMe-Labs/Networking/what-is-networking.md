@@ -6,7 +6,7 @@
 - **Room:** What is Networking?
 - **Category:** Networking Fundamentals
 - **Date:** 10 November 2026
-- **Status:** In Progress completed
+- **Status:** completed
 - **Room Link:** https://tryhackme.com/room/whatisnetworking
 
 ## Learning Objectives
