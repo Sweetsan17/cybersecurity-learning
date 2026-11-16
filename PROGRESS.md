@@ -24,6 +24,15 @@ Phase 1: Cybersecurity Fundamentals
 - [ ] Network Protocols
 - [ ] Practical Networking Lab
 
+### Concepts Studied
+
+- [x] Introduction to Computer Networking
+- [x] Understanding the Internet
+- [x] IP and MAC Addresses
+- [x] IPv4 Fundamentals
+- [x] IPv6 Fundamentals
+- [x] Introduction to Ping and ICMP
+
 ## Practical Labs Completed
 
 | Date | Platform | Lab Name | Status | Documentation |
