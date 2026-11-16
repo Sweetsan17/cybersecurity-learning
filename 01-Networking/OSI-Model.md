@@ -1,5 +1,10 @@
 # OSI Model — Networking Fundamentals
 
+**Learning Status:** Planned
+
+> This document is a learning template.
+> I will update it as I study the OSI model.
+
 ## 1. Learning Objectives
 
 - Understand the purpose of the OSI Model.
