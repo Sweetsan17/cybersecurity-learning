@@ -26,9 +26,9 @@ Phase 1: Cybersecurity Fundamentals
 
 ## Practical Labs Completed
 
-| Date | Platform | Lab Name | Status |
-|------|----------|----------|--------|
-| - | - | - | Not Started |
+| Date | Platform | Lab Name | Status | Documentation |
+|------|----------|----------|--------|---------------|
+| 2026-11-10 | TryHackMe | What is Networking? | Completed | [View Lab](05-TryHackMe-Labs/Networking/what-is-networking.md) |
 
 ## Weekly Reflection
 
