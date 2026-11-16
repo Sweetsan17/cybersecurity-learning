@@ -343,3 +343,39 @@ Study LAN fundamentals, including:
 
 TryHackMe — What is Networking?
 https://tryhackme.com/room/whatisnetworking
+
+---
+
+## Practical Evidence — TryHackMe Screenshots
+
+The following screenshots document the learning
+materials and exercises I explored while studying
+networking fundamentals on TryHackMe.
+
+### Screenshot 1 — Room Overview
+
+![TryHackMe Room Overview](../screenshots/what-is-networking/01-room-overview.png)
+
+This screenshot shows the TryHackMe
+"What is Networking?" room.
+
+### Screenshot 2 — Networking Fundamentals
+
+![Networking Concepts](../screenshots/what-is-networking/02-task-1-networking-concept.png)
+
+This screenshot shows the introduction
+to computer networking.
+
+### Screenshot 3 — Understanding the Internet
+
+![Internet Concepts](../screenshots/what-is-networking/03-task-2-internet-concept.png)
+
+This screenshot shows how multiple
+networks connect to form the Internet.
+
+### Screenshot 4 — Ping and ICMP
+
+![Ping Explanation](../screenshots/what-is-networking/04-task-4-ping-explanation.png)
+
+This screenshot shows the educational example
+used to explain ping and ICMP in TryHackMe.
